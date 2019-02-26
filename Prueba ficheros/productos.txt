@@ -1,0 +1,6 @@
+5
+Carne_con_tomate 6.9
+Pan_bimbo_en_lata 7.6
+Almendras_en_almibar 2.4
+iPhone6_64_yigas 0.5
+Torres_hanoi 5.4321
